@@ -7,7 +7,8 @@ div#voverlay {
 	padding:35px;
 }
 div#voverlay div.close {
-	background-image:url(close.png);	position:absolute;
+	background-image:url(close.png);
+	position:relative;
 	right:5px;
 	top:5px;
 	cursor:pointer;
